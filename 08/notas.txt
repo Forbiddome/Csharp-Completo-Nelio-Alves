@@ -78,3 +78,11 @@ git remote set-url origin ENDEREÇoHTTPSoucodigoSSHdonovoRepositorio
 esse comando muda o endereço do repositorio remoto podendo envia o repo local
 para outro repo. diferente do git remote add origin que adiciona uma origin que será util quando
 o repo remoto n existir mais!
+
+COMO CRIAR UM GIT E MANDÁ-LO AO GITHUB-
+git init
+git add .
+git commit -m "Mensagem explicativa"
+git branch -M main
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+git push -u origin main 
