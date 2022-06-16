@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.exe
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.deps.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\ref\03ex04-01_02_03_04_05_06_07.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\bin\Debug\net5.0\03ex04-01_02_03_04_05_06_07.pdb
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\ref\03ex04-01_02_03_04_05_06_07.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.pdb
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex04-01_02_03_04_05_06_07\obj\Debug\net5.0\03ex04-01_02_03_04_05_06_07.genruntimeconfig.cache

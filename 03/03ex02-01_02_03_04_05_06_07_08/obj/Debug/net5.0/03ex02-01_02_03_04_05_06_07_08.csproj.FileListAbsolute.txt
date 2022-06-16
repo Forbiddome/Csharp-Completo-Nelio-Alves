@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.exe
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.deps.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\ref\03ex02-01_02_03_04_05_06_07_08.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\bin\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.pdb
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\ref\03ex02-01_02_03_04_05_06_07_08.dll
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.pdb
+C:\Users\chris\Desktop\Curso C# Completo\03\03ex02-01_02_03_04_05_06_07_08\obj\Debug\net5.0\03ex02-01_02_03_04_05_06_07_08.genruntimeconfig.cache

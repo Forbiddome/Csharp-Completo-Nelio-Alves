@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.exe
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.deps.json
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.runtimeconfig.json
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.dll
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\ref\trycatchfinnaly4FUN.dll
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\bin\Debug\net5.0\trycatchfinnaly4FUN.pdb
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.AssemblyInfo.cs
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.dll
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\ref\trycatchfinnaly4FUN.dll
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.pdb
+C:\Users\chris\Desktop\Cursos Livres\Nelio Alves C# Completo\11 - try, catch, finally\trycatchfinnaly4FUN\obj\Debug\net5.0\trycatchfinnaly4FUN.genruntimeconfig.cache
