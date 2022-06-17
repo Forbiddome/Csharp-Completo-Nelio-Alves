@@ -86,3 +86,14 @@ git commit -m "Mensagem explicativa"
 git branch -M main
 git remote add origin git@github.com:seuusuario/seurepositorio.git
 git push -u origin main 
+
+COMO usar pela primeira vez um repositorio em outra máquina por SSH key
+
+primeiro se instala o gitbash
+agora se adiciona uma Senha SSH para a máquina atual acessar o repostorio remoto
+no git bash: crie o username e emai com git config --global user.nameOUemail "xxxxxx"
+entre na pasta .ssh criada pelo git
+ssh-keygen -t ed25519 -C "your_email@example.com" (ATENÇÃO - checar no GITHUB DOCS se não mudou o codigo de gerar senha ssh)
+adicione a senha SSH lá em Settings na conta Github (como se fosse uma máquina remota que vai verifica a senha da maquina local atual)
+agora va a pasta desejada no bash e faça o git clone e pronto
+
