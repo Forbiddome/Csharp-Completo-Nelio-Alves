@@ -1,0 +1,48 @@
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.exe
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.deps.json
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.json
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\Paulo\Desktop\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\refint\10ex01_02_03_04.dll
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\10ex01_02_03_04\obj\Debug\net5.0\ref\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfo.cs
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\ref\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.exe
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.deps.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\ref\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.genruntimeconfig.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.AssemblyInfo.cs
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\ref\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.exe
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.deps.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\ref\10ex01_02_03_04.dll
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\bin\Debug\net5.0\10ex01_02_03_04.pdb
+C:\Users\chris\Desktop\Cursos Livres\C# Completo Nelio Alves\10 - herança e polimorfismo\10ex01_02_03_04\obj\Debug\net5.0\10ex01_02_03_04.genruntimeconfig.cache
