@@ -1,4 +1,5 @@
-// My Exercise template
+// Exercises Template
+
             Console.WriteLine("Activity 01".ToUpper());
 
             //ex01--------------------------------------------------------------------------------------------------

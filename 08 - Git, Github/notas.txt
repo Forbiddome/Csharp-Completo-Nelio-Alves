@@ -10,12 +10,11 @@ diferentemente do git log, esse comando mostra apenas
 a parte dos histórico de versões referente a mensagem 
 de cada um dos commits feitos
 
-git restore - volta para antes do git add (faz algo a mais que o reset que ainda não sei - talvez aponte o Head
-- que não sei o que é para o commit anterior)
-Head - Ultimo commit feito (da Working tree = historico de commitadas )
+git restore - volta/descarta o projeto modificado no repo local para as modificações do ultimo commit
+Head - Ultimo commit feito (da Working tree = historico de commitadas ) pode ser escolhido/mudado
 
 
-git reset - zera o stage add icionado
+git reset - apenas zera o stage adicionado
 
 selecionando separadamente os arquivos com o git add NomedoArquivo ou git add . para adicionar
 todos ao stage ( palco de para salvar no commit ) o git commit só entregará os elencados os addicionados

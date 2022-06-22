@@ -6,4 +6,8 @@
     <RootNamespace>_14ex01_02_03</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="src\Entities\" />
+  </ItemGroup>
+
 </Project>

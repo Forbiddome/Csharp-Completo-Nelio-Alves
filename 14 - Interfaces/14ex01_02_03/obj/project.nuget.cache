@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBmJb1WhHtpiGDhc2FXhhCQSpNL7pA0sNkI1PMRRKlwG7FZAzybMAGw8Q3DKFvL+e1XiQZ0ivWFnGDCM24yaCw==",
+  "dgSpecHash": "LDPt1kg/Zz+lQJjO8a2Ie3NjgjnyZEXg5lwCJ5Fva3b7jB4L9IbVT753viYiMSBysiTDFoVbA1lmVf90D3pjfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\chris\\Desktop\\Cursos Livres\\C# Completo Nelio Alves\\14 - Interfaces\\14ex01_02_03\\14ex01_02_03.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
