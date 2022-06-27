@@ -5,6 +5,7 @@ namespace _17ex01_02_03_04_05_06
 {
     internal class Program
     {
+        delegate Product Selector(Product x); //um delegate próprio criado deve ter os mesmos parametros dã função recebida!!!
         delegate bool Match(Product p); // delegate 01
         delegate void Action(Product p); // delegate 02
         delegate double Sum(List<Product> list, Func<Product, bool> test); // delegate 03
@@ -22,6 +23,7 @@ namespace _17ex01_02_03_04_05_06
 
             Console.WriteLine("\n\nExercise 01\n");
             {
+              
                 List<Product> list = new List<Product>();
                 list.Add(new Product("Tv", 900.00));
                 list.Add(new Product("Mouse", 50.00));
@@ -69,12 +71,29 @@ namespace _17ex01_02_03_04_05_06
 
 
             //ex03--------------------------------------------------------------------------------------------------
-
+            */
             Console.WriteLine("\n\nExercise 03\n");
             {
+                //Fazer um programa que, a partir de uma lista de produtos, gere uma
+                //nova lista contendo os nomes dos produtos em caixa alta.
 
+                // Usando Delegate próprio + Coleção IEnumerable ou um UpCasting + metodo static e Select gerando objeto a objeto
+                //Selector selector = Product.ReturnToUpper;
+                //list = list.Select(selector.Invoke).ToList(); //To.List<T>() Converte do Return IEnumerable para List
+
+                //Selector selector = Product.ReturnToUpper;
+                // Func está usando tipos <in T(product), out TResult(product)> e um parametro Product 
+                //Func<Product,Product> func = selector.Invoke; // que é preenchido PELO USO da Função Product.ReturnUpper EM list.Select pelo delegate
+                //list = list.Select(func).ToList();
+
+                // uso de um Func <In T, out T> (T arg) + expressao Lambda
+                //Func<Product, Product> func = p => new Product(p.Name.ToUpper(),p.Price);
+                //list = list.Select(func).ToList();
+
+                foreach (Product product in list)
+                    Console.WriteLine(product);
             }
-
+            /*
             //ex04--------------------------------------------------------------------------------------------------
 
             Console.WriteLine("\n\nExercise 04\n");
@@ -135,7 +154,7 @@ namespace _17ex01_02_03_04_05_06
                 }
 
             }
-            */
+            
             //ex06--------------------------------------------------------------------------------------------------
 
             Console.WriteLine("\n\nExercise _06\n");
@@ -174,7 +193,9 @@ namespace _17ex01_02_03_04_05_06
                 string summ = sumM.Invoke(employeeList, employeeF).ToString("F2", CultureInfo.InvariantCulture);
                 Console.WriteLine();
                 Console.Write("Sum of salary of people whose name starts with 'M': " + summ);
+
             }
+            */
         }
     }
 }
